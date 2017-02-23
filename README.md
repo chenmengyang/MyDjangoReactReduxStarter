@@ -1,7 +1,7 @@
 # Project Plan
 
 ## Name of the team
-Whatever
+ReactPlay
 
 ## Team members
 * Enbo Chen
