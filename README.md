@@ -31,4 +31,5 @@ Whatever
 
 ## Tasks and timetable
 Task | Description | Deadline
+----------- | ------------ | ------------
 Project plan | ... | 2017-03-06
