@@ -17,8 +17,14 @@ Whatever
 
 ## List of features 
 * Back-end
-
+    * RESTful APIs
+    * Database (sqlite/mongodb/mysql ...)
 * Front-end
+    * Single Page Application using React framework (React, React-router)
+    * High user experience (CSS3)
+    * Dynamic state control with Redux (Redux, Redux-thunk)
+* A simple js game
+    * 
 
 ## Extra features
-* At least one more javascript game, more playable than the very simple example one.
+* One more playable javascript game.
