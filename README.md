@@ -28,3 +28,7 @@ Whatever
 
 ## Extra features
 * One more playable javascript game.
+
+## Tasks and timetable
+Task | Description | Deadline
+Project plan | ... | 2017-03-06
